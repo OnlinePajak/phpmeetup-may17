@@ -1,0 +1,16 @@
+{
+    "name": "mage95/swarrot-tutorial",
+    "description": "Simple SwarrotLib Implementation for Listening and Broadcasting to Broker",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "2.6.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryandy Baghaskoro",
+            "email": "ryandbaghaskoro@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
